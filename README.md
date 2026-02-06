@@ -25,13 +25,13 @@ I am a passionate **Computer Science student** with hands-on experience in **Ful
   <a href="mailto:kaifmumtajansari@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ansari-kaif-0540872aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="linkedin"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/kaif_0046/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" alt="leetcode"/>
   </a>
-  <a href="YOUR_HACKERRANK_URL">
+  <a href="https://www.hackerrank.com/profile/kaifmumtajansari">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30" alt="hackerrank"/>
   </a>
 </div>
