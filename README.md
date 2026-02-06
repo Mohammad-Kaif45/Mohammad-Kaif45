@@ -11,7 +11,7 @@
 <br/>
 
 ## 🚀 About Me
-I am a passionate **Computer Science student** with hands-on experience in **Full Stack Development**. I have interned as a Web Developer at **Spark To Ideas** and enjoy solving complex algorithmic problems.
+I am a passionate **Computer Science student** with hands-on experience in **Full Stack Development**. I have interned as a Web Developer at **Spark To Ideas**.
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering (CGPA: 8.33)
 * 💼 **Experience:** Web Developer Intern (Frontend) at Spark To Ideas
