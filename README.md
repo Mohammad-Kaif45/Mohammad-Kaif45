@@ -5,7 +5,7 @@
     <em>B.Tech CSE Student at Parul Institute of Engineering and Technology</em>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Kaif45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
