@@ -68,7 +68,7 @@ I am a passionate **Computer Science student** with hands-on experience in **Ful
 | **HarvestHub** | Secure authentication architecture with RBAC for Farmers & Retailers. | Java, Spring Boot, MySQL |
 | **Console Banking** | Banking system with ACID properties and SHA-256 security. | Java, JDBC, MySQL |
 | **Image Resizer** | Tool to resize/optimize images for social media platforms. | HTML, CSS, JS, Tailwind |
-
+   
 <br/>
 
 <div align="center">
