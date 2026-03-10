@@ -72,6 +72,6 @@ I am a passionate **Computer Science student** with hands-on experience in **Ful
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Kaif45&show_icons=true&theme=radical" height="180" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Kaif45&layout=compact&theme=radical" height="180" alt="top languages"/>
-</div> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mohammad-Kaif45&show_icons=true&theme=radical" height="180" alt="github stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohammad-Kaif45&layout=compact&theme=radical" height="180" alt="top languages"/>
+</div>
