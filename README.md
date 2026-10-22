@@ -11,11 +11,11 @@
 <br/>
 
 ## 🚀 About Me
-I am a passionate **Computer Science student** with hands-on experience in **Full Stack Development**. I have interned as a Web Developer at **Spark To Ideas**.
+I am a passionate **Computer Science student** with hands-on experience in **Full Stack Development**. I have interned as a Java Web Developer at **MaMo Technolabs LLP**.
 
 * 🎓 **Education:** B.Tech in Computer Science & Engineering (CGPA: 8.33)
-* 💼 **Experience:** Web Developer Intern (Frontend) at Spark To Ideas
-* 💻 **Core Focus:** Java, Spring Boot, React, and Data Structures
+* 💼 **Experience:** Web Developer Intern (Frontend) at Spark To Ideas and Java Web Developer at MaMo Technolabs LLP
+* 💻 **Core Focus:** Java, Spring Boot, MySQL, React, and Data Structures
 * 🏆 **Achievement:** Solved **300+** problems on LeetCode
 
 <br/>
